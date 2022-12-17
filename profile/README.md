@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/Sound-Linux-More?style=social)
+
 This organization includes mainly cross-platform open source software products (only some can only run on Linux) for processing sound files and streams.
 
 These software products are simpler than professional sound editors, but provide certain features and help eliminate inconvenience when working with sound files.
