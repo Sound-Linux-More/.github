@@ -41,6 +41,9 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/slac)
 ![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/slac/total)
 ![GitHub](https://img.shields.io/github/license/Sound-Linux-More/slac)
+* [srla](https://github.com/Sound-Linux-More/srla):
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/srla)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/srla)
 * [ttaenc](https://github.com/Sound-Linux-More/ttaenc):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/ttaenc)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/ttaenc)
@@ -56,6 +59,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/aad)
 ![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/aad/total)
 ![GitHub](https://img.shields.io/github/license/Sound-Linux-More/aad)
+* [aften](https://github.com/Sound-Linux-More/aften):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/aften)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/aften)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/aften)
+![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/aften/total)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/aften)
 * [agress](https://github.com/Sound-Linux-More/agress):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/agress)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/agress)
@@ -99,6 +108,18 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/lossywav-for-linux)
 ![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/lossywav-for-linux/total)
 ![GitHub](https://img.shields.io/github/license/Sound-Linux-More/lossywav-for-linux)
+* [silk](https://github.com/Sound-Linux-More/silk):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/silk)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/silk)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/silk)
+![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/silk/total)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/silk)
+* [ulc-codec](https://github.com/Sound-Linux-More/ulc-codec):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/ulc-codec)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/ulc-codec)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/ulc-codec)
+![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/ulc-codec/total)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/ulc-codec)
 
 #### gui:
 
@@ -125,6 +146,12 @@ The main directions of the organization:
 ![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/rezound)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/rezound)
 ![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/rezound/total)
+* [skomoroh](https://github.com/Sound-Linux-More/skomoroh):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/skomoroh)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/skomoroh)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/skomoroh)
+![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/skomoroh/total)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/skomoroh)
 * [sunvox](https://github.com/Sound-Linux-More/sunvox):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/sunvox)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/sunvox)
@@ -195,12 +222,27 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/opuscomment)
 ![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/opuscomment/total)
 ![GitHub](https://img.shields.io/github/license/Sound-Linux-More/opuscomment)
+* [pcm2wav](https://github.com/Sound-Linux-More/pcm2wav):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/pcm2wav)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/pcm2wav)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/pcm2wav)
+![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/pcm2wav/total)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/pcm2wav)
+* [peaqb-fast](https://github.com/Sound-Linux-More/peaqb-fast):
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/peaqb-fast)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/peaqb-fast)
 * [sacd](https://github.com/Sound-Linux-More/sacd):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/sacd)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/sacd)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/sacd)
 ![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/sacd/total)
 ![GitHub](https://img.shields.io/github/license/Sound-Linux-More/sacd)
+* [sacd-extract](https://github.com/Sound-Linux-More/sacd-extract):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/sacd-extract)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/sacd-extract)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/sacd-extract)
+![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/sacd-extract/total)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/sacd-extract)
 * [sadenoise](https://github.com/Sound-Linux-More/sadenoise):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/sadenoise)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/sadenoise)
@@ -248,6 +290,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/wavegain)
 ![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/wavegain/total)
 ![GitHub](https://img.shields.io/github/license/Sound-Linux-More/wavegain)
+* [wavtofft](https://github.com/Sound-Linux-More/wavtofft):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/wavtofft)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/wavtofft)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/wavtofft)
+![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/wavtofft/total)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/wavtofft)
 * [xm2sco](https://github.com/Sound-Linux-More/xm2sco):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/xm2sco)
 * [zxfft](https://github.com/Sound-Linux-More/zxfft):
