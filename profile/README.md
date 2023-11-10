@@ -172,6 +172,12 @@ The main directions of the organization:
 ![GitHub](https://img.shields.io/github/license/Sound-Linux-More/beepalsa)
 * [cursetag](https://github.com/Sound-Linux-More/cursetag):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/cursetag)
+* [cutmp3](https://github.com/Sound-Linux-More/cutmp3):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/cutmp3)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/cutmp3)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/cutmp3)
+![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/cutmp3/total)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/cutmp3)
 * [cvoicecontrol](https://github.com/Sound-Linux-More/cvoicecontrol):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/cvoicecontrol)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/cvoicecontrol)
@@ -284,6 +290,12 @@ The main directions of the organization:
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/v2mplayer)
 ![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/v2mplayer/total)
 ![GitHub](https://img.shields.io/github/license/Sound-Linux-More/v2mplayer)
+* [vinyldecoder](https://github.com/Sound-Linux-More/vinyldecoder):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/vinyldecoder)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/vinyldecoder)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/vinyldecoder)
+![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/vinyldecoder/total)
+![GitHub](https://img.shields.io/github/license/Sound-Linux-More/vinyldecoder)
 * [wavegain](https://github.com/Sound-Linux-More/wavegain):
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Sound-Linux-More/wavegain)
 ![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/wavegain)
@@ -303,3 +315,5 @@ The main directions of the organization:
 ![GitHub Release Date](https://img.shields.io/github/release-date/Sound-Linux-More/zxfft)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/zxfft)
 ![GitHub all releases](https://img.shields.io/github/downloads/Sound-Linux-More/zxfft/total)
+* [vinyldecoder](https://github.com/Sound-Linux-More/vinyldecoder):
+![GitHub repo size](https://img.shields.io/github/repo-size/Sound-Linux-More/vinyldecoder)
